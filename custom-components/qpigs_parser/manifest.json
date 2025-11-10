@@ -1,0 +1,9 @@
+{
+  "domain": "qpigs_parser",
+  "name": "QPIGS Parser",
+  "version": "1.0",
+  "dependencies": ["uart"],
+  "codeowners": [],
+  "requirements": [],
+  "components": ["sensor"]
+}
